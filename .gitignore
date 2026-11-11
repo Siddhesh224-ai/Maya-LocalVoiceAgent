@@ -1,0 +1,31 @@
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+logfile.txt
+logfile.txt.*
+
+# Local model weights and generated data.
+models/
+archive/
+*.gguf
+*.onnx
+*.bin
+
+# Frontend dependencies and build output.
+frontend/node_modules/
+frontend/dist/
+
+# Local documents and generated artifacts.
+*.pdf
+*.log
+.DS_Store
+models/
+archive/
+frontend/node_modules/
+frontend/dist/
+*.gguf
+*.onnx
+*.bin
+*.log
+.DS_Store

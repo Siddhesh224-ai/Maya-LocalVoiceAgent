@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">Maya local voice agent frontend preview</title>
+  <desc id="desc">Warm editorial voice interface with a preparing conversation panel and live captions.</desc>
+  <rect width="1200" height="700" rx="32" fill="#f7f5f0"/>
+  <path d="M0 110h1200M0 220h1200M0 330h1200M0 440h1200M0 550h1200M120 0v700M240 0v700M360 0v700M480 0v700M600 0v700M720 0v700M840 0v700M960 0v700M1080 0v700" stroke="#242321" stroke-opacity=".035"/>
+  <rect x="98" y="85" width="1004" height="532" rx="30" fill="#fffdf9" stroke="#e7e1d8" stroke-width="2"/>
+  <path d="M99 86h510v530H99z" fill="#efede8"/>
+  <circle cx="146" cy="132" r="15" fill="#242321"/>
+  <text x="142" y="138" fill="#fff9f1" font-family="Georgia" font-size="20" font-style="italic">m</text>
+  <text x="174" y="136" fill="#242321" font-family="Arial" font-size="14" font-weight="700">MAYA VOICE</text>
+  <text x="151" y="191" fill="#a39d94" font-family="Arial" font-size="11" font-weight="700" letter-spacing="2">LOCAL INTELLIGENCE · HUMAN CONVERSATION</text>
+  <circle cx="353" cy="300" r="78" fill="none" stroke="#748b7a" stroke-opacity=".25"/>
+  <circle cx="353" cy="300" r="62" fill="none" stroke="#d86b4d" stroke-opacity=".3"/>
+  <circle cx="353" cy="300" r="43" fill="#d86b4d"/>
+  <text x="340" y="315" fill="#fff9f1" font-family="Georgia" font-size="40" font-style="italic">M</text>
+  <text x="151" y="413" fill="#af4c35" font-family="Arial" font-size="12" font-weight="700" letter-spacing="2">MAYA</text>
+  <text x="151" y="454" fill="#242321" font-family="Georgia" font-size="42">Your thoughtful</text>
+  <text x="151" y="495" fill="#242321" font-family="Georgia" font-size="42">voice companion.</text>
+  <rect x="151" y="530" width="118" height="31" rx="16" fill="#f4e7e2" stroke="#e7b6a7"/>
+  <circle cx="170" cy="546" r="4" fill="#d86b4d"/>
+  <text x="183" y="550" fill="#af4c35" font-family="Arial" font-size="11" font-weight="700">GETTING READY</text>
+  <text x="680" y="190" fill="#a39d94" font-family="Arial" font-size="11" font-weight="700" letter-spacing="2">CONVERSATION</text>
+  <text x="680" y="232" fill="#242321" font-family="Georgia" font-size="34">Live captions</text>
+  <rect x="955" y="183" width="105" height="25" rx="13" fill="#edf1ed"/>
+  <text x="970" y="200" fill="#63776a" font-family="Arial" font-size="10" font-weight="700">LOW LATENCY</text>
+  <path d="M680 270h350" stroke="#e7e1d8" stroke-width="2"/>
+  <path d="M680 304v86" stroke="#e7e1d8" stroke-width="2"/>
+  <text x="697" y="326" fill="#a39d94" font-family="Arial" font-size="10" font-weight="700" letter-spacing="1.5">YOU</text>
+  <text x="697" y="354" fill="#7c776f" font-family="Arial" font-size="14">How can I make this voice agent...</text>
+  <path d="M680 414v86" stroke="#d86b4d" stroke-width="2"/>
+  <text x="697" y="436" fill="#af4c35" font-family="Arial" font-size="10" font-weight="700" letter-spacing="1.5">MAYA</text>
+  <text x="697" y="464" fill="#242321" font-family="Arial" font-size="14">Let’s make the conversation feel...</text>
+  <rect x="680" y="530" width="350" height="43" rx="10" fill="#242321"/>
+  <text x="700" y="557" fill="#fff9f1" font-family="Arial" font-size="13" font-weight="700">Preparing Maya</text>
+  <circle cx="1007" cy="551" r="8" fill="none" stroke="#fff9f1" stroke-opacity=".5" stroke-width="2"/>
+</svg>
